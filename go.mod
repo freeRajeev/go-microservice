@@ -1,4 +1,4 @@
-module github.com/freeRajeev/go-microservice.git
+module github.com/freeRajeev/go-microservice
 
 go 1.20
 

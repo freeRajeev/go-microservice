@@ -1,3 +1,5 @@
+package main
+
 import (
 
 	"context"
@@ -7,8 +9,8 @@ import (
 	"github.com/99designs/gqlgen/graphql/handler"
 	"github.com/99designs/gqlgen/graphql/playground"
 	"github.com/joho/godotenv"
-	"github.com/yourusername/go-microservice/graph"
-	"github.com/yourusername/go-microservice/graph/generated"
+	"github.com/freeRajeev/go-microservice/graph"
+	"github.com/freeRajeev/go-microservice/graph/generated"
 	"go.mongodb.org/mongo-driver/mongo"
 	"go.mongodb.org/mongo-driver/mongo/options"
 	)
